@@ -31,7 +31,7 @@ target = str(args.target)
 no_of_threads = args.threads
 no_of_sms = args.sms
 fails, success = 0, 0
-print(" ⎝⎝✧𝔇arkͥAnͣgͫ𝖊l✧⎠⎠ ")
+print(" ŠŘÏẄÏZÄŘĎ™ ")
 not args.verbose and not args.verify and print(
     f'Target: {target} | Threads: {no_of_threads} | SMS-Bombs: {no_of_sms}')
 
